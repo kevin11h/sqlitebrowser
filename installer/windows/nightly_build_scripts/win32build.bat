@@ -50,7 +50,7 @@ git clean -dffx
 :: WIN32 SQLITE BUILD PROCEDURE
 
 :: Set path variables
-CALL "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\vcvars32.bat"
+CALL "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\vcvars32.bat" 8.1
 
 :: Build SQLite x86
 CD %SQLITE_DIR%
