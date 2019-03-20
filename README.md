@@ -56,6 +56,10 @@ Download nightly builds for Windows and OSX here:
 Download Windows releases here:
 
 * https://github.com/sqlitebrowser/sqlitebrowser/releases
++ https://mislav.net/rails/install-sqlite3/
++ http://www.sqlitetutorial.net/download-install-sqlite/
+
+
 
 **Note** - If for some reason the standard Windows release does not work
 (e.g. gives an error), try a nightly build.  Nightly builds often fix bugs
